@@ -1,0 +1,15 @@
+{
+    "name": "solution_meenal_aggarwal",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "solution": "node app.js",
+        "test": "mocha --recursive"
+    },
+    "dependencies": {
+        "moment": "^2.24.0"
+    },
+    "devDependencies": {
+        "mocha": "^7.0.0"
+    }
+}
