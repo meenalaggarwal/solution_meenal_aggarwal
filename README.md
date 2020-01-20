@@ -21,17 +21,13 @@
 	```
 
 ### Run the Application
-
-	```
+	
 	npm install
-	npm run solution
-	```
+	npm run solution	
 
 ### Run test cases
 	
-	```
 	npm run test
-	```
 
 ### Library used
 
